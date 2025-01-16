@@ -1,4 +1,4 @@
-Prototip complet procesor RISC-V
+# Prototip complet procesor RISC-V
 
 Am implementat stagiile IF, ID, EX, MEM, WB si doua unitati 
 auxiliare pentru detectia hazardurilor si pentru unitatea de
